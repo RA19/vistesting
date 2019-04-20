@@ -1,8 +1,8 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
-	"name": "Test",
+	"file": "https://raw.githubusercontent.com/RA19/vistesting/master/visyvaries.csv",
+	"name": "TestVisual",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" }
